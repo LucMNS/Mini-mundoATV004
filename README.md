@@ -78,7 +78,7 @@ Este script realiza atualizações (UPDATE) e exclusões (DELETE). ATENÇÃO: O 
 🤝 Autor e Contato
 Aluno: [Lucas Moreira] Instituição: [Cruzeiro Do Sul] Disciplina: Modelagem de Banco de Dados
 ------
-[Link para o seu perfil do GitHub : https://github.com/DevLucsMNS
+[GitHub : https://github.com/LucMNS
 
 -------
 / LinkedIn] https://www.linkedin.com/in/lucasmns7/
